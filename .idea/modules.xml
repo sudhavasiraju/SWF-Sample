@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleSWF.iml" filepath="$PROJECT_DIR$/SampleSWF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleSWF-grailsPlugins.iml" filepath="$PROJECT_DIR$/SampleSWF-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
